@@ -1,6 +1,6 @@
 # *Site Mult Páginas*
 
-- Contato - Formulário
-- Produto - html
-- Index - html
-- Serviços - html
+- Contato - Formulário ❓
+- Produto - html 🏵️
+- Index - html 😎
+- Serviços - html 👩🏻‍🏭
